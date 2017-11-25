@@ -1,5 +1,5 @@
 |[Courses](page_b.md)| [Projects](page_c.md) | [External Links](page_d.md) |
-|---|---|---|
+|--------------------|-----------------------|-----------------------------|
 
 Mohammed Sahil K R
 ==================
