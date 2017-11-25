@@ -1,6 +1,5 @@
-<table>
-  <th>[Home](README.md)</th>
-</table>
+#### [Home](README.md)
+
 
 Courses
 ==================
