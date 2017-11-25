@@ -1,5 +1,4 @@
-|[Courses](page_b.md)| [Projects](page_c.md) | [External Links](page_d.md) |
-|--------------------|-----------------------|-----------------------------|
+#### [Courses](page_b.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](page_c.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[External Links](page_d.md)
 
 Mohammed Sahil K R
 ==================
